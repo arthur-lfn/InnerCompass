@@ -16,7 +16,7 @@ Inner Compass is designed for iPad and it is optimised for iPad Pro models (6th 
    git clone https://github.com/arthur-lfn/InnerCompass.git
    ```
 
-2. Open the ```.swiftpm``` file with either Xcode or Swift Playgrounds directly on iPad
+2. Open the ```.swiftpm``` file in either Xcode or Swift Playgrounds directly on iPad
 
 ### Issues
 
